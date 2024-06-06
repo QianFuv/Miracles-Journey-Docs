@@ -48,7 +48,7 @@ next: false
            | - en_us.json    --- 英语语言文件
            | - zh_cn.json    --- 中文语言文件
        | - ......
-       - .gitignore          --- 忽略文件
+       - .gitignore          --- Git 忽略文件
        - pack.mcmeta         --- 资源包样式文件
        - README.md           --- 分支自述文件
 ```
