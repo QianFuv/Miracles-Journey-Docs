@@ -53,7 +53,7 @@ next: false
 
 - 稳定版 - 发布（Release）版：暂无
 - 测试版 - 预发布（Pre-release）版：`Miracles-Journey-version-x.x.x.zip`（`version` 指发布版本，一般为 `release` / `beta`；`x`指版本，一般为数字）
-- 开发版 - 源码下载（Code download）版：`Miracles-Journey-pack.zip`
+- 开发版 - 源码下载（Code download）版：`Miracles-Journey-pack-main.zip`
 
 ### 稳定版 - 发布（Release）版
 
@@ -65,7 +65,7 @@ next: false
 
 **下载方式**：
 
-1. 打开整合包的发布页：[点我即达](https://github.com/Qian-F/Miracles-Journey/releases)
+1. 打开整合包的发布页：[点我即达](https://github.com/WaxingMoonStudio/Miracles-Journey-Pack/releases)
 
 2. 选择右上角具有 `Pre-release` 标识的版本
 
@@ -78,7 +78,7 @@ next: false
 
 **下载方式**：
 
-1. 打开整合包 `pack` 分支首页：[点我即达](https://github.com/Qian-F/Miracles-Journey/tree/pack)
+1. 打开整合包 `pack` 仓库首页：[点我即达](https://github.com/WaxingMoonStudio/Miracles-Journey-Pack)
 
 2. 点击右上角绿色 `Code` 按钮展开下载页面
 
