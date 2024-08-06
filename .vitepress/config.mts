@@ -8,45 +8,19 @@ export default defineConfig({
   cleanUrls: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    nav: [
-      { text: '主页', link: '/' },
-      {
-        text: '指南',
-        items: [
-          { text: '如何安装', link: '/posts/install' },
-          { text: '可选优化', link: '/posts/optimize' },
-          { text: '常见问题', link: '/posts/common_issue' }
-        ]
-      },
-      {
-        text: '进阶',
-        items: [
-          { text: '贡献指南', link: '/posts/contribute' },
-          { text: '分支目录树', link: '/posts/tree' }
-        ]
-      }
-    ],
-
     sidebar: [
       {
         text: '基础指南',
         items: [
-          { text: '如何安装', link: '/posts/install' },
-          { text: '可选优化', link: '/posts/optimize' },
-          { text: '常见问题', link: '/posts/common_issue' }
-        ]
-      },
-      {
-        text: '进阶指南',
-        items: [
-          { text: '贡献指南', link: '/posts/contribute' },
-          { text: '分支目录树', link: '/posts/tree' }
+          { text: '如何安装', link: '/posts/guide/install' },
+          { text: '可选优化', link: '/posts/guide/optimize' },
+          { text: '常见问题', link: '/posts/guide/issue' }
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/Qian-F/Miracles-Journey' }
+      { icon: 'github', link: 'https://github.com/WaxingMoonStudio/Miracles-Journey-Home' }
     ],
 
     docFooter: {
