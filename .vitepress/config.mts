@@ -1,11 +1,41 @@
 import { defineConfig } from 'vitepress'
+import { tabsMarkdownPlugin } from 'vitepress-plugin-tabs'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   lang: 'zh',
+  
   title: "奇迹之旅维基",
+  
   description: "寻找你需要的一切",
+  
   cleanUrls: true,
+  
+  markdown: {
+    config(md) {
+      md.use(tabsMarkdownPlugin)
+    }
+  },
+
+  transformHead({ assets }) {
+    // 相应地调整正则表达式以匹配字体
+    const myFontFile = assets.find(file => /Fusion-Pixel-12px-Monospaced-zh_hans-Regular\.\w+\.woff2/)
+    if (myFontFile) {
+      return [
+        [
+          'link',
+          {
+            rel: 'preload',
+            href: myFontFile,
+            as: 'font',
+            type: 'font/woff2',
+            crossorigin: ''
+          }
+        ]
+      ]
+    }
+  },
+  
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     sidebar: [
