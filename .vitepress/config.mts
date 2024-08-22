@@ -4,13 +4,13 @@ import { tabsMarkdownPlugin } from 'vitepress-plugin-tabs'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   lang: 'zh',
-  
+
   title: "奇迹之旅维基",
-  
+
   description: "寻找你需要的一切",
-  
+
   cleanUrls: true,
-  
+
   markdown: {
     config(md) {
       md.use(tabsMarkdownPlugin)
@@ -35,7 +35,7 @@ export default defineConfig({
       ]
     }
   },
-  
+
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     sidebar: [
@@ -43,6 +43,7 @@ export default defineConfig({
         text: '基础指南',
         items: [
           { text: '如何安装', link: '/posts/guide/install' },
+          { text: '如何更新', link: '/posts/guide/update' },
           { text: '可选优化', link: '/posts/guide/optimize' },
           { text: '常见问题', link: '/posts/guide/issue' }
         ]

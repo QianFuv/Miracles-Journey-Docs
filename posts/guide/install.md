@@ -1,8 +1,3 @@
----
-prev: false
-next: false
----
-
 # 安装教程
 
 欢迎您查看安装教程！有任何疑问请查看常见问题页面的如何提问栏并遵循相关提问途径礼貌提问！
@@ -10,13 +5,12 @@ next: false
 ## 第一步 - 版本选择
 
 > 在开始下载之前，您需要明确您将要游玩哪个版本。目前，整合包有三个版本可供选择，分别为：稳定版、测试版和开发版，接下来将介绍这几个版本之间的区别和下载方式。
->
 
-|  版本  |                             特点                             |                           适用人群                           |                  发布周期                  |
-| :----: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------: |
+|  版本  |                                  特点                                  |                           适用人群                           |                  发布周期                  |
+| :----: | :--------------------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------: |
 | 稳定版 | 不会出现较多的严重 Bug，内容较为完善（每版之间的修改内容约为 500+ 条） |          对于不追求最新版而追求稳定的玩家的最佳选择          |       测试版每发布 9 版将会尽快发布        |
-| 测试版 |    包含了最新一段时间（大约为一个月）之内的修改和错误修复    |            对于想体验较新版本游戏的玩家的最佳选择            | 新增、删除和修改内容总计达 50 条后尽快发布 |
-| 开发版 |                 拥有最新的更新内容和错误修复                 | 对于急需获取最新更新和错误修复的玩家和开发测试人员的最佳选择 |        每一次更新均为一次开发版发布        |
+| 测试版 |         包含了最新一段时间（大约为一个月）之内的修改和错误修复         |            对于想体验较新版本游戏的玩家的最佳选择            | 新增、删除和修改内容总计达 50 条后尽快发布 |
+| 开发版 |                      拥有最新的更新内容和错误修复                      | 对于急需获取最新更新和错误修复的玩家和开发测试人员的最佳选择 |        每一次更新均为一次开发版发布        |
 
 ## 第二步 - 版本下载
 
@@ -38,26 +32,25 @@ next: false
 
 2. 找到带有“Beta”字样的预发布版本
 
-    ![image-20240810232559804](https://cdn.sa.net/2024/08/10/7poH9KW3PaRnfdN.png)
+   ![image-20240810232559804](https://cdn.sa.net/2024/08/10/7poH9KW3PaRnfdN.png)
 
 3. 点击左下方“Assets”展开资源列表，点击“Source code(zip)”按钮下载文件即可
 
-    ![image-20240810233453741](https://cdn.sa.net/2024/08/10/XfavdGNKOB8P1tr.png)
+   ![image-20240810233453741](https://cdn.sa.net/2024/08/10/XfavdGNKOB8P1tr.png)
 
 == Gitcode
 
 > 下载文件格式：Beta-x.x.x.zip（“x”为版本号）
->
 
 1. 进入 Gitcode 整合包镜像仓库标签选择页：[点我即达](https://gitcode.com/WaxingMoonStudio/Miracles-Journey-Pack/tags)
 
 2. 找到带有“Beta”字样的预发布版本
 
-    ![image-20240810233012430](https://cdn.sa.net/2024/08/10/Tx8EcavIsiFXVHp.png)
+   ![image-20240810233012430](https://cdn.sa.net/2024/08/10/Tx8EcavIsiFXVHp.png)
 
 3. 点击“zip”按钮下载文件即可
 
-    ![image-20240810233402504](https://cdn.sa.net/2024/08/10/Guae7mIAP46L9U8.png)
+   ![image-20240810233402504](https://cdn.sa.net/2024/08/10/Guae7mIAP46L9U8.png)
 
 == 123 云盘
 
@@ -69,11 +62,11 @@ next: false
 
 2. 进入“奇迹之旅镜像 > 奇迹之旅测试版”目录
 
-    ![image-20240810234832683](https://cdn.sa.net/2024/08/10/qKBjGwd9bUHVfs4.png)
+   ![image-20240810234832683](https://cdn.sa.net/2024/08/10/qKBjGwd9bUHVfs4.png)
 
 3. 选中版本号最高 / 创建时间最晚的版本，点击浏览器下载即可
 
-    ![image-20240810235916880](https://cdn.sa.net/2024/08/10/pn2GXSgw8ju4IHT.png)
+   ![image-20240810235916880](https://cdn.sa.net/2024/08/10/pn2GXSgw8ju4IHT.png)
 
 :::
 
@@ -89,22 +82,21 @@ next: false
 
 2. 点击绿色“Code”按钮展开菜单
 
-    ![image-20240811000613233](https://cdn.sa.net/2024/08/10/xjo8tusBGyrDieN.png)
+   ![image-20240811000613233](https://cdn.sa.net/2024/08/10/xjo8tusBGyrDieN.png)
 
 3. 点击“Download ZIP”按钮下载即可
 
-    ![image-20240811003310653](https://cdn.sa.net/2024/08/10/AtZwOlWn7pLDgTu.png)
+   ![image-20240811003310653](https://cdn.sa.net/2024/08/10/AtZwOlWn7pLDgTu.png)
 
 == Gitcode
 
 > 下载文件格式：main.zip
->
 
 1. 进入 Gitcode 整合包镜像仓库首页：[点我即达](https://gitcode.com/WaxingMoonStudio/Miracles-Journey-Pack/overview)
 
-2. 点击“下载zip”按钮下载即可
+2. 点击“下载 zip”按钮下载即可
 
-    ![image-20240811030949878](https://cdn.sa.net/2024/08/11/7b8IqHZzJpEPAw9.png)
+   ![image-20240811030949878](https://cdn.sa.net/2024/08/11/7b8IqHZzJpEPAw9.png)
 
 == 123 云盘（不积极更新）
 
@@ -118,14 +110,13 @@ next: false
 
 2. 进入“奇迹之旅镜像 > 奇迹之旅开发版”目录
 
-    ![image-20240811031915923](https://cdn.sa.net/2024/08/11/dXWO4z5tI6pPvAL.png)
+   ![image-20240811031915923](https://cdn.sa.net/2024/08/11/dXWO4z5tI6pPvAL.png)
 
 3. 选中版本号最高 / 创建时间最晚的版本，点击浏览器下载即可
 
-    ![image-20240811032112756](https://cdn.sa.net/2024/08/11/jBAJtlwfeHzVNTI.png)
+   ![image-20240811032112756](https://cdn.sa.net/2024/08/11/jBAJtlwfeHzVNTI.png)
 
 :::
-
 
 ## 第三步 - 解压压缩包
 

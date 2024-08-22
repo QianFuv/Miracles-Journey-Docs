@@ -8,8 +8,11 @@ hero:
   tagline: 盈月工作室
   actions:
     - theme: brand
-      text: 快速开始
+      text: 如何安装
       link: /posts/guide/install
+    - theme: brand
+      text: 如何更新
+      link: /posts/guide/update
     - theme: alt
       text: 可选优化
       link: /posts/guide/optimize
@@ -25,4 +28,3 @@ features:
   - title: 工具
     details: 这里将提供一些有用的小工具给你，它们将帮助你的游戏体验变得更好！
 ---
-
