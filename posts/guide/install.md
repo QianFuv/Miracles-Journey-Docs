@@ -78,7 +78,7 @@
 
 > 下载文件格式：Miracles-Journey-Pack-main.zip
 
-1. 进入整合包仓库页面：[点我即达](https://cdn.sa.net/2024/08/10/pn2GXSgw8ju4IHT.png)
+1. 进入整合包仓库页面：[点我即达](https://github.com/WaxingMoonStudio/Miracles-Journey-Pack)
 
 2. 点击绿色“Code”按钮展开菜单
 
